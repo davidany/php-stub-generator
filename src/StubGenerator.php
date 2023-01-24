@@ -1,6 +1,6 @@
 <?php
 
-namespace SebastiaanLuca\StubGenerator;
+namespace Davidany\StubGenerator;
 
 use RuntimeException;
 
