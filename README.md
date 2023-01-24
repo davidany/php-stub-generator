@@ -15,7 +15,7 @@ Easily generate files and classes from stubs. Ideal for e.g. additional Laravel 
 Via Composer:
 
 ``` bash
-composer require sebastiaanluca/php-stub-generator
+composer require davidany/php-stub-generator
 ```
 
 ## Usage
